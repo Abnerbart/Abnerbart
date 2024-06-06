@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hi 👋, I'm Agner Vargas López</h1>
+<h3 align="center">Student at UFIDÉLITAS🌟.</h3>
 
 <br>
 
@@ -12,17 +12,17 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Development and other programming languages for exmaple Rust, Java, JavaScript, C#, Python, TypeScript, MYSQL
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **abner_cd_94@hotmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Programing to learn new lenguajes and there are a lot of things in my free time like play soccer, dance , among other.
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/abnerbart/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
