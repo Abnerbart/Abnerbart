@@ -72,7 +72,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      alt="> <img
       src="
      /> </a> </p>
 
