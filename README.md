@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agner Vargas López</h1>
-<h3 align="center">Student at Univer FIDÉLITAS🌟.</h3>
+<h3 align="center">Student at University FIDÉLITAS🌟.</h3>
 
 <br>
 
