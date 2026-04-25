@@ -20,7 +20,7 @@
 I am a Software Engineering student with a strong foundation in **application analysis, basic programming, data handling, and problem-solving** through academic and freelance projects.
 
 I am currently seeking an **entry-level opportunity** in:
-## 🎯 Roles of Interest
+## 🎯 Roles
 
 - 🖥️ **IT Support / Service Desk**  
 - 🧩 **Application Support**  
