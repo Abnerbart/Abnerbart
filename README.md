@@ -30,25 +30,25 @@ I am currently seeking an **entry-level opportunity** in:
 ## 🧠 Technical Skills
 
 **Programming & Scripting**
-- Python  
-- Java  
-- JavaScript (basic)  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> Python  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="18"/> Java  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18"/> JavaScript *(basic)*  
 
 **Data & Analysis**
-- R (data analysis & reporting)  
-- SQL (basic queries)  
+- <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="18"/> R *(data analysis & reporting)*  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="18"/> SQL *(basic queries)*  
 
 **Tools**
-- Git & GitHub  
-- RStudio  
-- VS Code  
-- NetBeans  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18"/> Git & GitHub  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="18"/> RStudio  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="18"/> VS Code  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="18"/> NetBeans  
 
 **Core Competencies**
-- Application Analysis  
-- System Logic & Workflows  
-- Problem Solving  
-- Requirements Understanding  
+- 🧩 Application Analysis  
+- 🔁 System Logic & Workflows  
+- 🧠 Problem Solving  
+- 📋 Requirements Understanding  
 
 <br>
 
