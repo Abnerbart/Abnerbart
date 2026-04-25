@@ -1,94 +1,73 @@
-<h1 align="center">Hi 👋, I'm Agner Vargas López</h1>
-<h3 align="center">Student at University FIDÉLITAS🌟.</h3>
+# Hi 👋, I'm Agner Vargas López
 
-<br>
+🎓 Software Engineering Student at Universidad Fidélitas  
+📍 San Pedro, Costa Rica  
+💼 Entry-Level Systems / Technology Analyst  
 
-<br>
+---
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+## 👨‍💻 About Me
 
+I am a Software Engineering student with a strong foundation in application analysis, 
+basic programming, data handling, and logical problem-solving through academic and freelance projects.
 
-- 🌱 I’m currently learning Web Development and other programming languages for exmaple Rust, Java, JavaScript, C#, Python, TypeScript, MYSQL
+I am currently seeking an **entry-level opportunity** in:
+- IT Support / Service Desk
+- Application Support
+- Systems / Technology Analyst
+- QA / Junior Analyst roles
 
-- 📫 How to reach me **abner_cd_94@hotmail.com**
+---
 
-- ⚡ Fun fact :- Programing to learn new lenguajes and there are a lot of things in my free time like play soccer, dance , among other.
+## 🧠 Technical Skills
 
-<br>
+**Programming & Scripting**
+- Python
+- Java
+- JavaScript (basic)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/abnerbart/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/abnerbart/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/varagslopez/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
- <a href="https://x.com/abnercd9" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
+**Data & Analysis**
+- R (data analysis & reporting)
+- SQL (basic queries)
 
-<br>
+**Tools**
+- Git & GitHub
+- RStudio
+- VS Code
+- NetBeans
 
-<h3 align="left">Languages and Tools:</h3>
-<p align= <img
-      src="
-      alt="" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt= "width="40"  height="40"  
-     /> </a> </p>
+**Core Competencies**
+- Application Analysis
+- System Logic & Workflows
+- Problem Solving
+- Requirements Understanding
 
-<br>
+---
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Agner Vargas López" 
-    bg_color=#808080/></p>
+## 📊 Featured Project
 
-<br>
+### 🍷 Wine Price Prediction Model  
+**Freelance Data Analysis Project (Independent Client)**
 
+- Analyzed a real-world dataset with 13,000+ records using R.
+- Performed data cleaning, exploratory data analysis, and visualization.
+- Built a linear regression model to predict wine prices.
+- Applied dummy variables for categorical features.
+- Generated a reproducible analytical report using R Markdown (HTML).
 
+🔗 **Live Report:**  
+https://abnerbart.github.io/R-project/Proyecto.html  
 
-<br>
+📁 **Repository:**  
+https://github.com/Abnerbart/R-project
 
+---
 
+## 📫 Contact
 
+- 📧 Email: abner_cd_94@hotmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/abnerbart/
 
+---
+
+⭐ Feel free to explore my repositories and connect with me.
