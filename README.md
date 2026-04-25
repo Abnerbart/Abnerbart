@@ -68,9 +68,6 @@ https://abnerbart.github.io/R-project/Proyecto.html
 </a>
 
 <br>
-
-## 📫 Connect with me
-
 ## 🔗 Connect with me
 
 <p align="left">
@@ -91,8 +88,6 @@ https://abnerbart.github.io/R-project/Proyecto.html
          height="30" width="40" />
   </a>
 </p>
-
-## 📧 Contact
 
 📨 **abner_cd_94@hotmail.com**
 
