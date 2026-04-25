@@ -63,7 +63,7 @@ I am currently seeking an **entry-level opportunity** in:
 - Generated a reproducible analytical report using R Markdown (HTML).
 
 🔗 <b>Live Report:</b><br>
-<a href="https://abnerbart.github.io/R-project/Proyecto.html" target="_blank">
+<a href="file:///D:/Users/agner.vargas/Downloads/Proyecto.html" target="_blank">
 https://abnerbart.github.io/R-project/Proyecto.html
 </a>
 
