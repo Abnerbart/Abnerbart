@@ -87,7 +87,7 @@ https://abnerbart.github.io/R-project/Proyecto.html
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/vargaslopez/" target="_blank">
+      <a href="https://www.instagram.com/lovargars/ target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
       </a>
     </td>
